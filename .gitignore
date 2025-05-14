@@ -173,8 +173,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-*.json
-*.csv
+
 
 downloaded/
 downloaded_images/
